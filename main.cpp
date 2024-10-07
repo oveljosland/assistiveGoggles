@@ -1,6 +1,6 @@
 #include <iostream>
-// a
+// test
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "tekst" << std::endl;
     return 0;
 }
